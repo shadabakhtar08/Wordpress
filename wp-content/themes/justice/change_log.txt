@@ -1,0 +1,38 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Resolve few issues and as suggested by reviewer.
+
+Version 1.1.1
+i) Removed multiple text domain.
+
+Version 1.1.2
+i) Added escaped functions and removed custom fields.
+
+Version 1.1.3
+i) Removed top contact field from customizer and done it few changes as asked by reviewer.
+
+Version 1.1.4
+i) Resolve css issues on comments also added conditional pingback.
+
+Version 1.1.5
+i) Resolve error from comments.php file.
+
+Version 1.1.6
+i) Removed unused codes and made few changes as asked by reviewer.
+
+Version 1.1.7
+i) Removed class from post thumbnail function.
+
+Version 1.1.8
+i) Removed few errors from files.
+
+Version 1.2
+i) Added skip to content button and added proper escape functions.
+
+Version 1.2.1
+i) Resolved few CSS issues.
+
+Version 1.2.2
+i) Minor changes.
