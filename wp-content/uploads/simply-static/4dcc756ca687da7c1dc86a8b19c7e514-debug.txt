@@ -1,0 +1,12 @@
+[2024-07-13 16:53:53] [class-ss-archive-creation-job.php:112] Not starting; we're already in the middle of a job
+[2024-07-14 01:42:57] [class-ss-admin-settings.php:697] Received request to cancel static archive generation
+[2024-07-14 01:42:57] [class-ss-archive-creation-job.php:221] Cancelling job; job is not done
+[2024-07-14 01:42:57] [class-ss-archive-creation-job.php:224] The queue is empty, pushing the cancel task
+[2024-07-14 01:42:58] [class-ss-archive-creation-job.php:136] Current task: cancel
+[2024-07-14 01:42:58] [class-ss-archive-creation-job.php:153] Performing task: cancel
+[2024-07-14 01:42:58] [class-ss-task.php:44] Status message: [cancel] Cancelling job
+[2024-07-14 01:42:58] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2024-07-14 01:42:58] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2024-07-14 01:42:58] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
+[2024-07-14 01:42:58] [class-ss-archive-creation-job.php:197] Completing the job
+[2024-07-14 01:42:58] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 10:52:35
